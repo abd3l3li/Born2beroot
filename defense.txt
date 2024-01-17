@@ -53,3 +53,5 @@ dpkg -s name_of_service
 sudo crontab -u root -e
 sudo /etc/init.d/cron start/start
 sudo systemctl start/stop cron
+#-----------------------------------------------------#
+sudo zcat /var/log/sudo/00/00/XX/ttyout
