@@ -14,7 +14,8 @@ Aptitude is an enhanced version of apt. APT is a lower-level package manager and
 A security module in the Linux kernel that allows the system administrator to restrict the capabilities of a program.
 
 ▪️ What is LVM ?
-It is a logical volume manager. It provides a method for allocating space on mass storage devices, which is more flexible than conventional partitioning schemes for storing volumes.
+It is a logical volume manager. It provides a method for allocating space on mass storage devices,
+which is more flexible than conventional partitioning schemes for storing volumes.
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
